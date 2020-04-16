@@ -1,0 +1,13 @@
+@import 'color';
+
+body{
+    background: $blue-color;
+}
+h1{
+    color:$red-color;
+    &:hover{
+        background: $green-color;
+        cursor: pointer;
+        border: 1px solid $red-color;
+    }
+}
