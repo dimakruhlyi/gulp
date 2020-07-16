@@ -1,12 +1,12 @@
 # Gulp assembly for projects
 
-# Tech Stuff
+## Tech Stuff
 - JavaScript
 - Gulp
 - NPM
 - HTML, CSS
 
-# Features
+## Features
 This assembly includes:
 - img compression
 - uglify js code
